@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Antafxx
+## Hi there 👋 I'm Ant
 
 Student learning web development  
 Aspiring UX/UI Designer  
